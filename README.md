@@ -1,8 +1,9 @@
 # Full Stack Application Deployment With Docker
 
-Welcome to the Full Stack Application Deployment With Docker project! 🚀
+Welcome to my Full Stack Application Deployment With Docker project! 🚀
 
 This project demonstrates the power of Docker and Docker Compose in deploying a full stack application seamlessly on AWS EC2. Whether you're a seasoned developer or just getting started with containerization, this project provides an excellent opportunity to dive into deploying complex applications with ease.
+
 
 ### Microservice Architecture Demo
 
@@ -13,10 +14,9 @@ This project demonstrates the power of Docker and Docker Compose in deploying a 
 </p>
 </figure>
 
-
 ## Project Overview
 
-Building and deploying full stack applications can be a daunting task, especially when it comes to managing dependencies, environments, and scaling. With Docker, we simplify this process by encapsulating each component of our application into containers, ensuring consistency across development, testing, and production environments.
+Building and deploying full stack applications can be a daunting task, especially when it comes to managing dependencies, environments, and scaling. With Docker, I simplify this process by encapsulating each component of the application into containers, ensuring consistency across development, testing, and production environments.
 
 ## Features
 
@@ -32,7 +32,7 @@ Building and deploying full stack applications can be a daunting task, especiall
 - **Portability**: Docker containers can run on any platform, making deployment across different environments a breeze.
 - **Isolation**: Each container encapsulates its dependencies, ensuring that applications run consistently regardless of the host environment.
 - **Scalability**: Docker's lightweight nature enables effortless scaling of services horizontally or vertically as demand fluctuates.
-- **DevOps Efficiency**: Docker streamlines the development-to-production workflow, empowering teams to ship code faster and with fewer errors.
+- **DevOps Efficiency**: Docker streamlines the development-to-production workflow, empowering me to ship code faster and with fewer errors.
 
 ## Getting Started
 
@@ -59,17 +59,10 @@ Once the containers are up and running, access the application in your web brows
 
 ## Contributing
 
-I welcome contributions from the community! Whether you're interested in adding new features, fixing bugs, or improving documentation, your help is greatly appreciated. Please refer to our [Contribution Guidelines](CONTRIBUTING.md) for more information on how to get started.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
+I welcome contributions from the community! Whether you're interested in adding new features, fixing bugs, or improving documentation, your help is greatly appreciated. Please feel free to reach out to me via email at [toriqul.int@gmail.com](mailto:toriqul.int@gmail.com) for further communications and feedback.
 
 ## Have Questions or Feedback?
 
-If you have any questions, feedback, or suggestions for improvement, please don't hesitate to [open an issue](https://github.com/TheToriqul/Full-Stack-Application-Deployment-with-Docker/issues). We'd love to hear from you and help in any way we can!
+If you have any questions, feedback, or suggestions for improvement, please don't hesitate to reach out to me via email at [toriqul.int@gmail.com](mailto:toriqul.int@gmail.com). I'd love to hear from you and help in any way I can!
 
 Let's Dockerize and deploy with confidence! 🐳
-```
-
-Make sure to update the instructions in the "Getting Started" section to reflect the usage of the public IP address of your AWS EC2 instance for accessing the application.
